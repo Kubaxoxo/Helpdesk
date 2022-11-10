@@ -1,0 +1,15 @@
+html {
+    background-color: rgba(6, 24, 83, 0.774);
+}
+
+.navbar {
+    border: 2px solid rgba(10, 49, 99, 0.74);
+    background-color: transparent;
+}
+#logo {
+    color: rgb(91, 141, 248);
+    font-size: 25px;
+}
+.nav-item {
+    font-size: 23px;
+}

@@ -1,0 +1,37 @@
+.ticket-title {
+	font-weight:bold;
+	font-size:20px;
+	margin-left:10px;
+}
+.answered {
+	font-size:10px;
+	color:#ffffff;
+	background-color:#484a57;
+	margin:0px 0px 0px 5px;
+}
+
+body {
+	color: #ffffff;
+	background-color: #2f2f3186;
+	font-family: 'Teko', sans-serif;
+}
+.btn {
+	font-size: 18px;
+	width: 100px;
+}
+
+div.dataTables_wrapper div.dataTables_filter input {
+	width: 200px;
+}
+div.dataTables_wrapper div.dataTables_filter label {
+	font-size: 25px;
+}
+div.dataTables_wrapper div.dataTables_info {
+	font-size: 20px;
+}
+.container-fluid {
+	font-size: 25px;
+}
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .open > a {
+	font-size: 25px;
+}
